@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaac-hx
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on Small project
 - 📫 How to reach me saydimas78@gmail.com
 

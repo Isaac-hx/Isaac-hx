@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Nextjs + Golang
 - 💞️ I’m looking to collaborate on Small project
 - 📫 How to reach me saydimas78@gmail.com
-- Linkedin
+- Linkedin Dimas Ananda Riyadi
 
 <!---
 Isaac-hx/Isaac-hx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

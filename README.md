@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isaac-hx or my nam is Dimas Ananda Riyadi
+- 👋 Hi, I’m @Isaac-hx or my name is Dimas Ananda Riyadi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Nextjs + Golang
 - 💞️ I’m looking to collaborate on Small project
